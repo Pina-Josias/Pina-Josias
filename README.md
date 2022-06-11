@@ -1,10 +1,7 @@
-<h2> Hi, I'm Josias Piña! src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Josias Piña!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/> </h2>
 
-- 👋 Hi, I’m @Pina-Josias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Mobile developer with extensive experience in the development multi-platform mobile applications for iOS and Android. [![Linkedin: thaianebraga](https://img.shields.io/badge/Josias_Pina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinajosias/)](https://www.linkedin.com/in/pinajosias/)
+
 
 ## 🔧 My Tech Stack
 
@@ -34,17 +31,16 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
 
 ## 🔧 Tools & Software
+![Android Studio](https://img.shields.io/badge/Android_Studio-Tool?style=for-the-badge&logo=androidstudio&logoColor=white&color=2bbc8a)
+![XCode](https://img.shields.io/badge/XCode-Tool?style=for-the-badge&logo=xcode&logoColor=white&color=2bbc8a)
+![VS Code](https://img.shields.io/badge/VS_Code-Tool?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-Tool?style=for-the-badge&logo=visualstudio&logoColor=white&color=2bbc8a)
+![Figma](https://img.shields.io/badge/Figma-Tool?style=for-the-badge&logo=figma&logoColor=white&color=2bbc8a)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-Tool?style=for-the-badge&logo=adobexd&logoColor=white&color=2bbc8a)
+![Jira](https://img.shields.io/badge/Jira-Tool?style=for-the-badge&logo=jira&logoColor=white&color=2bbc8a)
 
-
-
+## My Github Stats
 <div>
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pina-Josias&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pina-Josias&layout=compact&theme=dracula"/>
 </div>
-
-
-<!---
-Pina-Josias/Pina-Josias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
