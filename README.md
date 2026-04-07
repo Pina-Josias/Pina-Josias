@@ -1,19 +1,19 @@
 # <h2> Hi, I'm Josias Piña! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/> </h2>
 
 ### **Senior Software Engineer | Mobile Team Leader**
-Senior Software Engineer con más de **5 años de experiencia** transformando ideas en productos digitales de alto impacto. Especialista en ecosistemas **Flutter** y desarrollo nativo, con un enfoque sólido en arquitecturas escalables y liderazgo de equipos técnicos.
+Senior Software Engineer with over **5 years of experience** transforming ideas into high-impact digital products. Specialist in **Flutter** ecosystems and native development, with a solid focus on scalable architectures and technical team leadership.
 
 [![Linkedin: Josias Pina](https://img.shields.io/badge/LinkedIn-Josias_Piña-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pinajosias/)
 [![GitHub: Pina-Josias](https://img.shields.io/github/followers/Pina-Josias?label=Follow&style=social)](https://github.com/Pina-Josias)
 
 ---
 
-## 🚀 Perfil Profesional
+## 🚀 Professional Profile
 
-* **Mobile Expert:** Dominio avanzado de Flutter, Dart y desarrollo nativo (iOS/Android).
-* **Arquitectura:** Implementación de **Clean Architecture**, SOLID principles y patrones de diseño avanzados.
-* **Gestión de Estado:** Experto en **BLoC**, **Riverpod** y Provider.
-* **Liderazgo:** Experiencia liderando equipos en proyectos globales (TUI Airways, Disney Parks Reference Architecture).
+* **Mobile Expert:** Advanced proficiency in Flutter, Dart, and native development (iOS/Android).
+* **Architecture:** Implementation of **Clean Architecture**, SOLID principles, and advanced design patterns.
+* **State Management:** Expert in **BLoC**, **Riverpod**, and Provider.
+* **Leadership:** Proven track record leading teams in global projects (TUI Airways, Disney Parks Reference Architecture).
 
 ---
 
@@ -43,7 +43,7 @@ Senior Software Engineer con más de **5 años de experiencia** transformando id
 ---
 
 ## 📊 GitHub Stats
-A continuación puedes ver un resumen de mi actividad y lenguajes más utilizados:
+Below is a summary of my activity and most used languages:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pina-Josias&show_icons=true&theme=dracula" />
@@ -52,10 +52,10 @@ A continuación puedes ver un resumen de mi actividad y lenguajes más utilizado
 
 ---
 
-## 🎯 Proyectos Actuales
-* Desarrollo de arquitecturas **Multi-Agent System** para SaaS con IA.
-* Optimización de procesos de BI mediante limpieza de datos automatizada.
-* Contribución a comunidades de Mobile Development y buenas prácticas.
+## 🎯 Current Projects
+* Developing **Multi-Agent System** architectures for AI-driven SaaS.
+* Optimizing BI processes through automated data cleaning and transformation.
+* Contributing to the Mobile Development community and promoting best practices.
 
 ---
 
