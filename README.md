@@ -46,8 +46,8 @@ Senior Software Engineer con más de **5 años de experiencia** transformando id
 A continuación puedes ver un resumen de mi actividad y lenguajes más utilizados:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pina-Josias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pina-Josias&layout=compact&theme=dracula&hide=html,css,javascript"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pina-Josias&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pina-Josias&layout=compact&theme=dracula" />
 </div>
 
 ---
