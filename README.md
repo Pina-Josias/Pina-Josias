@@ -1,6 +1,7 @@
 <h2> Hi, I'm Josias Piña!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/> </h2>
 
-Mobile developer with extensive experience in the development multi-platform mobile applications for iOS and Android. [![Linkedin: thaianebraga](https://img.shields.io/badge/Josias_Pina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinajosias/)](https://www.linkedin.com/in/pinajosias/)
+Senior Software Engineer with 5+ years of expertise in high-impact mobile development.
+[![Linkedin: thaianebraga](https://img.shields.io/badge/Josias_Pina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pinajosias/)](https://www.linkedin.com/in/pinajosias/)
 
 
 ## 🔧 My Tech Stack
